@@ -5,8 +5,8 @@
 	path = lab01
 	url = git@github.com:4m09u5/walkdir.git
 [submodule "lab03"]
-	path = OSISP_LAB03
+	path = lab03
 	url = https://github.com/4m09u5/OSISP_LAB03
 [submodule "lab04"]
-	path = OSISP_LAB04
+	path = lab04
 	url = https://github.com/4m09u5/OSISP_LAB04
