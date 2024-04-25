@@ -4,3 +4,6 @@
 [submodule "lab01"]
 	path = lab01
 	url = git@github.com:4m09u5/walkdir.git
+[submodule "OSISP_LAB04"]
+	path = lab04/OSISP_LAB04
+	url = https://github.com/4m09u5/OSISP_LAB04
